@@ -1,5 +1,5 @@
 # passing-cs231n
-My attempt to pass Stanford's CS231n: Convolutional Neural Networks for Visual recognition (Spring 2018).
+My attempt to pass Stanford's CS231n: Convolutional Neural Networks for Visual recognition (Spring 2019).
 
 ## Assignment #1
 
